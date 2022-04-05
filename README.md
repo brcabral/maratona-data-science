@@ -1,2 +1,2 @@
-# maratona-data-science
-Maratona de Data Science da QODA!
+# Maratona de Data Science
+Maratona de Data Science (QODA/Hotmart - https://maratonadatascience.club.hotmart.com)
